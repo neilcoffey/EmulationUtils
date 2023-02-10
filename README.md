@@ -16,3 +16,7 @@ This function will display the checksum and stated ROM size
 encoding from a Master System or Game Gear ROM header. It will
 also calculate the MD5 and SHA-1 checksums of the specified
 ROM file for comparison against SMS ROM databases.
+
+## Contacting the author
+
+To report issues, please contact @neilcoffey@mastodonapp.uk
